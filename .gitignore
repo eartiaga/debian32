@@ -1,0 +1,5 @@
+# ignore editor files
+**/.*.swp
+
+# ignore debian image
+debian32.tgz
